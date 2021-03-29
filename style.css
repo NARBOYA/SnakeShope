@@ -1,0 +1,66 @@
+﻿body {
+}
+
+.menu{
+ list-style-type: none;
+ background-color: #000000;
+ padding: 10px;
+ margin: 0px
+}
+
+.li1{
+  display: inline;
+}
+
+ul li a{
+    color: yellow;
+    text-decoration: none;
+    padding: 10px;
+}
+
+ul a:hover {
+    background-color: #00d0ff;
+}
+
+.verev {
+    background-color:yellow;
+    height:125px;
+    width:100%;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mejtex {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+	
+}
+.contacs {
+ color: yellow;
+text-align: center; 
+}
+
+.undersheit{
+	color: yellow;
+	text-align: center; 
+}
+
+.reg {
+	color: yellow
+}
+
+.nerqev {
+    background-color:yellow;
+    height:125px;
+    width:100%;
+}
+.licenziya {
+	color: black;
+	text-align: center;
+}
+ 
